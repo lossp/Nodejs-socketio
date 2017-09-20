@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lossp/Nodejs-socketio/issues"
   },
-  "homepage": "https://github.com/lossp/Nodejs-socketio#readme"
+  "homepage": "https://github.com/lossp/Nodejs-socketio#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
