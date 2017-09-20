@@ -1,0 +1,20 @@
+{
+  "name": "Nodejs-socketio",
+  "version": "1.0.0",
+  "description": "socket.io小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lossp/Nodejs-socketio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lossp/Nodejs-socketio/issues"
+  },
+  "homepage": "https://github.com/lossp/Nodejs-socketio#readme"
+}
